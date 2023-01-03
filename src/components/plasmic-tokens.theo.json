@@ -1,0 +1,19 @@
+{
+  "props": [
+    {
+      "name": "UnnamedStyleToken",
+      "type": "fontfamily",
+      "value": "Rhodium Libre",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "2pogXpt1wS4iSHeduPsXYy",
+        "id": "P9PUB2vI9"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
